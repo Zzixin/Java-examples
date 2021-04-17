@@ -5,7 +5,7 @@ public class SmallCalendar {
         LocalDate date = LocalDate.now(); //current date
         int month = date.getMonthValue(); //current month
         int today = date.getDayOfMonth(); //current day
-
+        
         date = date.minusDays(today - 1); //the first day of current month
         int week = date.getDayOfWeek().getValue(); //1=mon, 7=sun
 
