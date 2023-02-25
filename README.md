@@ -1,7 +1,7 @@
 # Java-examples
 
-1. [a small calendar](/Examples/SmallCalendar.java)
+1. [a small calendar](/codes/SmallCalendar.java)<br>
    <img src="/img/1calendar.png" alt="1-calendar" width="220"/>
 
-2. [2048 GAME](/Examples/Game2048.java)
+2. [2048 GAME](/codes/Game2048.java)<br>
    <img src="/img/22048.png" alt="2-2048" width="220"/>
